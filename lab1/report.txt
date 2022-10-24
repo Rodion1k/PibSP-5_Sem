@@ -1,0 +1,99 @@
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            Rodion:0               LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            Rodion:0               LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:2179           Rodion:0               LISTENING
+ [vmms.exe]
+  TCP    0.0.0.0:3306           Rodion:0               LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:5040           Rodion:0               LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           Rodion:0               LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:27036          Rodion:0               LISTENING
+ [steam.exe]
+  TCP    0.0.0.0:33060          Rodion:0               LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:49664          Rodion:0               LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          Rodion:0               LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49666          Rodion:0               LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49667          Rodion:0               LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49668          Rodion:0               LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:49669          Rodion:0               LISTENING
+ [AsusLinkNear.exe]
+  TCP    0.0.0.0:49674          Rodion:0               LISTENING
+ [AsusLinkNear.exe]
+  TCP    0.0.0.0:49775          Rodion:0               LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:63312          Rodion:0               LISTENING
+  PolicyAgent
+ [svchost.exe]
+  TCP    127.0.0.1:6463         Rodion:0               LISTENING
+ [Discord.exe]
+  TCP    127.0.0.1:27017        Rodion:0               LISTENING
+ [mongod.exe]
+  TCP    127.0.0.1:27060        Rodion:0               LISTENING
+ [steam.exe]
+  TCP    127.0.0.1:49670        kubernetes:49671       ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49671        kubernetes:49670       ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49672        kubernetes:49673       ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49673        kubernetes:49672       ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:61529        Rodion:0               LISTENING
+ [NVIDIA Web Helper.exe]
+  TCP    172.20.176.1:139       Rodion:0               LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.248.164:139    Rodion:0               LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.248.164:49429  20.199.120.85:https    ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.248.164:49430  20.199.120.85:https    ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.248.164:57299  20.199.120.85:https    ESTABLISHED
+ [OneDrive.exe]
+  TCP    192.168.248.164:57302  155.133.230.50:27038   ESTABLISHED
+ [steam.exe]
+  TCP    192.168.248.164:63243  162.159.134.234:https  ESTABLISHED
+ [Discord.exe]
+  TCP    192.168.248.164:63259  93.186.225.198:https   ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63264  93.186.225.194:https   ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63267  172.64.154.162:https   ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63271  93.186.225.198:https   ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63272  93.186.225.194:https   ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63274  ec2-35-174-127-31:https  ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63275  52.168.112.66:https    ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63296  srv132-129-240-87:https  ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63323  srv194-185-240-87:https  ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63354  srv199-185-240-87:https  ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63356  srv158-185-240-87:https  ESTABLISHED
+ [msedge.exe]
+  TCP    192.168.248.164:63373  srv213-185-240-87:https  ESTABLISHED
+ [msedge.exe]
